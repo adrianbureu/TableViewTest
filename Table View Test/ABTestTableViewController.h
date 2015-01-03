@@ -1,5 +1,5 @@
 //
-//  ABViewController.h
+//  ABTestTableViewController.h
 //  Table View Test
 //
 //  Created by Adrian Bureu on 1/2/15.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ABViewController : UIViewController
+@interface ABTestTableViewController : UITableViewController
 
 @end
